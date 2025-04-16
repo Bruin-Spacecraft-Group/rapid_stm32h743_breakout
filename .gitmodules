@@ -1,3 +1,0 @@
-[submodule "firmware/bruinspace-circuitpython"]
-	path = firmware/bruinspace-circuitpython
-	url = https://github.com/Bruin-Spacecraft-Group/bruinspace-circuitpython/
