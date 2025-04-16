@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=STM32H743_Breakout_V2_TOP.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=STM32H743_Breakout_V2_TOP.SchDoc|Designator=CON1|SchDesignator=CON1|FileName=IO_Connectors.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=IO_Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=STM32H743_Breakout_V2_TOP.SchDoc|Designator=MCU1|SchDesignator=MCU1|FileName=STM32H743.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=STM32H743.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
